@@ -1,0 +1,10 @@
+.vs
+.vscode
+Content
+DerivedDataCache
+Intermediate
+Saved
+Script
+Plugins/UXTools/Content
+Plugins/UXTools/Intermediate
+Plugins/UXTools/Shaders

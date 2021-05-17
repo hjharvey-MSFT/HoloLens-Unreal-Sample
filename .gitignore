@@ -1,6 +1,17 @@
 # Visual Studio 2015 user specific files
 .vs/
 
+
+.vscode/
+Content
+DerivedDataCache
+Intermediate
+Saved
+Script
+Plugins/*/Content
+Plugins/*/Intermediate
+Plugins/*/Shaders
+
 # Compiled Object files
 *.slo
 *.lo
